@@ -72,7 +72,7 @@ public class Notify extends AppCompatActivity implements AsyncResponse,LocationL
 
                 }
                 else {
-                    lt1="7.0170693";
+                   // lt1="7.0170693";
                     ln1="81.0612159";
 
 
