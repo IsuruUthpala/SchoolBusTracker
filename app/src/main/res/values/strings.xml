@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">School Bus Tracker</string>
+    <string name="logintxt">Login</string>
+    <string name="usernametxt">Username</string>
+    <string name="buttonlog">Button</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="result">Result</string>
+    <string name="sum">SUM</string>
+</resources>
